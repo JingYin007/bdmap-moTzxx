@@ -11,8 +11,9 @@
 	②. 设计地址下拉框展示效果
 	③. 即时获取 `百度地图服务器` 返回的匹配地址数据
 	④. 触发点击事件及搜索定位优化
-	> 优化后效果截图如下：
-	![](https://img-blog.csdnimg.cn/20200910175010986.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTE0MTU3ODI=,size_16,color_FFFFFF,t_70#pic_center)
+	
+> 优化后效果截图如下：
+![](https://img-blog.csdnimg.cn/20200910175010986.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTE0MTU3ODI=,size_16,color_FFFFFF,t_70#pic_center)
 
 - 使用指导
 	直接取源码中的 `"/bdmap" `文件夹 替换原来的 `“plugins/bdmap"` 文件夹即可 (本身来讲就是增加了一些逻辑代码)
