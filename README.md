@@ -1,5 +1,4 @@
 # bdmap-moTzxx
-
 - 背景
 
 	最近鄙人在使用富文本编辑器时发现：
@@ -14,9 +13,10 @@
 	③. 即时获取 `百度地图服务器` 返回的匹配地址数据
 	④. 触发点击事件及搜索定位优化
 	> 优化后效果截图如下：
-![](https://img-blog.csdnimg.cn/202009091833583.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTE0MTU3ODI=,size_16,color_FFFFFF,t_70#pic_center)
+	![](https://img-blog.csdnimg.cn/20200910175010986.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTE0MTU3ODI=,size_16,color_FFFFFF,t_70#pic_center)
+
 - 使用指导
-	将“bdmap” 文件夹 直接替换原来的 `“plugins/bdmap"` 文件夹即可 (本身来讲就是增加了一些逻辑代码)
+	直接取源码中的 `"/bdmap" `文件夹 替换原来的 `“plugins/bdmap"` 文件夹即可 (本身来讲就是增加了一些逻辑代码)
 ![](https://img-blog.csdnimg.cn/20200909185055972.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTE0MTU3ODI=,size_16,color_FFFFFF,t_70#pic_center)
 
 - 附录
@@ -26,4 +26,7 @@
 ```js 
 <script charset="utf-8" src="http://api.map.baidu.com/api?v=3.0&ak=M7GFlg9ApjGlQDFh8gHDaxxzLu7KfuSc"></script>
 ```
->`【源码】` 可自行深度优化
+>`【注意】`
+	源码中的 `"\百度地图 自定义实例设计\index.html"` 是根据百度开发文档设计的页面，方便后期对页面应用的优化使用，如果只为了优化 bdmap 插件是不需要这个的哦
+>`【源码】`
+可自行深度优化： [ ***`>>>源码下载地址 GitHUB>>>`***](https://github.com/JingYin007/bdmap-moTzxx)
