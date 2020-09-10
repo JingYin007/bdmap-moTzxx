@@ -26,5 +26,4 @@
 ```js 
 <script charset="utf-8" src="http://api.map.baidu.com/api?v=3.0&ak=M7GFlg9ApjGlQDFh8gHDaxxzLu7KfuSc"></script>
 ```
->`【源码】`
-可自行深度优化： [ ***`>>>源码下载地址 GitHub >>>`***]()
+>`【源码】` 可自行深度优化
