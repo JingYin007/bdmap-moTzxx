@@ -16,7 +16,7 @@
 	> 优化后效果截图如下：
 ![](https://img-blog.csdnimg.cn/202009091833583.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTE0MTU3ODI=,size_16,color_FFFFFF,t_70#pic_center)
 - 使用指导
-	直接替换原来的 `“plugins/bdmap"` 文件夹即可 (本身来讲就是增加了一些逻辑代码)
+	将“bdmap” 文件夹 直接替换原来的 `“plugins/bdmap"` 文件夹即可 (本身来讲就是增加了一些逻辑代码)
 ![](https://img-blog.csdnimg.cn/20200909185055972.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTE0MTU3ODI=,size_16,color_FFFFFF,t_70#pic_center)
 
 - 附录
